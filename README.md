@@ -63,11 +63,11 @@ Unfortunately, one logistical issue with a template theme like popara Pages that
 ---
 <div align="center">
     
-![pages-build-deployment](https://github.com/poparapages/poparapages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/poparapages/poparapages.github.io.svg)](https://github.com/poparapages/poparapages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/poparapages/poparapages.github.io)](https://github.com/poparapages/poparapages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/poparapages/poparapages.github.io?color=blue)](https://github.com/poparapages/poparapages.github.io/blob/master/LICENSE)
+![pages-build-deployment](https://github.com/Popara5/popara.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+[![GitHub contributors](https://img.shields.io/github/contributors/Popara5/popara.github.io.svg)](https://github.com/Popara5/popara.github.io/graphs/contributors)
+[![GitHub release](https://img.shields.io/github/v/release/Popara5/popara.github.io)](https://github.com/Popara5/popara.github.io/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/Popara5/popara.github.io?color=blue)](https://github.com/Popara5/popara.github.io/blob/master/LICENSE)
 
-[![GitHub stars](https://img.shields.io/github/stars/poparapages/poparapages.github.io)](https://github.com/poparapages/poparapages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/poparapages/poparapages.github.io)](https://github.com/poparapages/poparapages.github.io/fork)
+[![GitHub stars](https://img.shields.io/github/stars/Popara5/popara.github.io)](https://github.com/Popara5/popara.github.io)
+[![GitHub forks](https://img.shields.io/github/forks/Popara5/popara.github.io)](https://github.com/Popara5/popara.github.io/fork)
 </div>
